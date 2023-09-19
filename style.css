@@ -1,0 +1,14 @@
+body {
+    background: #831a1a
+}
+h1{
+    text-align: center;
+    color: blue;
+}
+p {
+    text-align: center;
+}
+
+em strong {
+    color: #FF0000;
+}
